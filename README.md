@@ -7,7 +7,8 @@
 ## What am I currently working on!?
 #### Becoming a well rounded developer of all kinds! 
 
-
+<img src="https://img.shields.io/badge/Role-Software Engineer-0000ff" />
+<img src="https://img.shields.io/badge/Stack-MERN-0000ff" alt="stack"/>
 
 
 - 🌱 I’m currently learning ...
