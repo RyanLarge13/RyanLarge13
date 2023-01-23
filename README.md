@@ -2,22 +2,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=50&duration=2500&pause=1000&color=FFF&multiline=true&width=1000&height=200&lines=Hi!+My+name+is+Ryan+Large%2C+;and+Welcome+to+my+Github+profile!!" alt="Typing SVG" />
 
+<p>My name is Ryan Large, I have claimed this spot on github
+to have a secure fun and productive way to store the code
+for the projects I start and projects I finish.</p> 
+<br/>
+<p>Most of my time is spent Engineering websites for all kinds of things
+and sadly the least amount of my time is developing my skills in UI/UX design
+but I am working on that as well!</p>
+<br/> 
+<p>Directly below you will see my favorite projects 
+that I am currently building upon and some that I have finished.
+I love to code and my knowledge base is increasingly increasing
+all the way from the world of Web Development, to Mobile App & around the
+corner to Robotics and Desktop Applications.</p>
+
 <img src="./assets/WebsiteCreator-amico.svg" alt="Cool Photo" />
 
-## What am I currently working on..
-<img src="./assets/DevCommerce.png" alt="Dev Commerce Logo" />
-
-
-https://user-images.githubusercontent.com/101679941/213993895-9c661952-8161-4686-bf14-91d022f0fd03.mp4
-
-
-
-
-
+## What I am currently working on..
 
 <img src="./assets/web.svg" alt="web" />
 
-## What languages, frameworks & Libraries do I spend the most time with...  
+## What languages, frameworks & Libraries I spend the most time with...  
 
 <img style="width: 25px; height: 25px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" /> <img style="width: 25px; height: 25px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" />
 <br/>
