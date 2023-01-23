@@ -9,7 +9,9 @@
 
 <img src="https://img.shields.io/badge/Role-Software Engineer-0000ff" />
 <img src="https://img.shields.io/badge/Stack-MERN-0000ff" alt="stack"/>
+<img src="https://img.shields.io/badge/Top Project-Dev Commerce-0000ff" alt="top project"/>
 
+<img src="./assets/web.svg" alt="web" />
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
