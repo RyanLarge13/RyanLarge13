@@ -6,6 +6,8 @@
 
 ## What am I currently working on...
 
+<img src="./assets/DevCommerce.png" alt="Dev Commerce Logo" />
+
 <img src="./assets/web.svg" alt="web" />
 
 ## What languages, frameworks & Libraries do I spend the most time with... 
