@@ -4,23 +4,13 @@
 
 <img src="./assets/WebsiteCreator-amico.svg" alt="Cool Photo" />
 
-## What am I currently working on!?
-* Becoming a well rounded developer of all kinds! 
-
-<img src="https://img.shields.io/badge/Role-Software Engineer-0000ff" />
-<img src="https://img.shields.io/badge/Stack-MERN-0000ff" alt="stack"/>
-<img src="https://img.shields.io/badge/Top Project-Dev Commerce-0000ff" alt="top project"/>
+## What am I currently working on...
 
 <img src="./assets/web.svg" alt="web" />
 
-## What languages do I spend most time with?? 
-
-Javascript 
+## What languages, frameworks & Libraries do I spend the most time with... 
 
 <img src="./assets/bubble-gum-web-design.gif" alt="gif" />
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## How to Reach Me! 👇
+### Email me at <a href="mailto:ryanlarge@ryanlarge.dev">📧 RyanLarge 📧</a>
