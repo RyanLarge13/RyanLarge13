@@ -5,7 +5,7 @@
 <img src="./assets/WebsiteCreator-amico.svg" alt="Cool Photo" />
 
 ## What am I currently working on!?
-#### Becoming a well rounded developer of all kinds! 
+* Becoming a well rounded developer of all kinds! 
 
 <img src="https://img.shields.io/badge/Role-Software Engineer-0000ff" />
 <img src="https://img.shields.io/badge/Stack-MERN-0000ff" alt="stack"/>
@@ -13,7 +13,9 @@
 
 <img src="./assets/web.svg" alt="web" />
 
-- 🌱 I’m currently learning ...
+## What languages do I spend most time with?? 
+
+Javascript 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
