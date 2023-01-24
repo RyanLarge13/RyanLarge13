@@ -2,15 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=50&duration=2500&pause=2000&color=FFF&width=1000&height=200&lines=Hi!+My+name+is+Ryan+Large!!%2C+;Welcome+to+my+Github+profile!!" alt="Typing SVG" />
 
-<p>My name is Ryan Large, I have claimed this spot on github
+<p style="font-size: 10px">My name is Ryan Large, I have claimed this spot on github
 to have a secure fun and productive way to store the code
 for the projects I start and projects I finish.</p> 
 <br/>
-<p>Most of my time is spent Engineering websites for all kinds of things
+<p style="font-size: 10px">Most of my time is spent Engineering websites for all kinds of things
 and sadly the least amount of my time is developing my skills in UI/UX design
 but I am working on that as well!</p>
 <br/> 
-<p>Directly below you will see my favorite projects 
+<p style="font-size: 10px">Directly below you will see my favorite projects 
 that I am currently building upon and some that I have finished.
 I love to code and my knowledge base is increasingly increasing
 all the way from the world of Web Development, to Mobile App & around the
