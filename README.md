@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=50&duration=2500&pause=1000&color=FFF&multiline=true&width=1000&height=200&lines=Hi!+My+name+is+Ryan+Large%2C+;and+Welcome+to+my+Github+profile!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=50&duration=2500&pause=2000&color=FFF&width=1000&height=200&lines=Hi!+My+name+is+Ryan+Large!!%2C+;Welcome+to+my+Github+profile!!" alt="Typing SVG" />
 
 <p>My name is Ryan Large, I have claimed this spot on github
 to have a secure fun and productive way to store the code
@@ -40,8 +40,6 @@ corner to Robotics and Desktop Applications.</p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 ## How to Reach Me! 👇
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />
