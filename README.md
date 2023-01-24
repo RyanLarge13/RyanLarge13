@@ -34,10 +34,14 @@ corner to Robotics and Desktop Applications.</p>
 <br/>
 <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="json" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="jwt" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport js" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="auth0" />
 
-
-
-
-<img src="./assets/bubble-gum-web-design.gif" alt="gif" />
+## Operating Systems 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 ## How to Reach Me! 👇
-### Email me at <a href="mailto:ryanlarge@ryanlarge.dev">📧 RyanLarge 📧</a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />
