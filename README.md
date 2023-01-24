@@ -20,6 +20,43 @@ corner to Robotics and Desktop Applications.</p>
 
 ## What I am currently working on..
 
+### Dev Commerce
+
+<p style="font-size: 10px">Dev Commerce is under construction
+on its way to becoming a full fledged Ecommerce Website with cross platform usability, both on mobile
+and on desktop</p>
+
+<p style="font-size: 10px">There will be an administrative application seperate of the customer app
+that will track orders, keep inventory, track employee information regarding their professional contributions
+and much more.</p>
+
+<p style="font-size: 15px">View the code here!!</p>
+<img src="https://img.shields.io/badge/Code-Dev Commerce-blueviolet?style=for-the-badge&logo=appveyor" alt="Dev Commerce code link" />
+
+### Soap Works
+
+<p>Soap Works is another Ecommerce website built with EJS for a family owned all natural
+Hygenic products business.</p>
+
+<p>Featuring a clean user interface built around nature this website
+is in the making and nearly fully functional.</p>
+
+<p>View the code and the demo site!!</p>
+<img src="https://img.shields.io/badge/Code-Soap Works-blueviolet?style=for-the-badge&logo=appveyor" alt="Soap Works code link" />
+<img src="https://img.shields.io/badge/Website-Demo-ff90ff?style=for-the-badge&logo=appveyor" alt="Soap Works Demo site" />
+
+### Calendar Next Gen
+
+<p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
+It will feature an entirely new interface build with much cleaner and simple UI/UX yet still
+packed with features beyond what people knew a calendar could do.</p>
+
+<p>Fully customizable, beautiful & key to an organized productive life
+this calendar will be your number one pall</p>
+
+<p>View the code here!!</p>
+<img src="https://img.shields.io/badge/Code-Calendar Next Gen-blueviolet?style=for-the-badge&logo=appveyor" alt="Calendar Next Gen code link" />
+
 <img src="./assets/web.svg" alt="web" />
 
 ## What languages, frameworks & Libraries I spend the most time with...  
@@ -36,6 +73,6 @@ corner to Robotics and Desktop Applications.</p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 ## How to Reach Me! 👇
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](ryanhudsonlarge13@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />](https://m.facebook.com/ryan.large.984?eav=Afb_ca1RYYviDYqYwVxrRIOnQzPU6Yh3GXFxHf8-l9kJ73sjTQDektoGhVDKNJ8mZdY&paipv=0)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />]() [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://mobile.twitter.com/ryan_large13)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />](https://www.linkedin.com/mwlite/in/ryan-large) 
