@@ -16,7 +16,7 @@ I love to code and my knowledge base is increasingly increasing
 all the way from the world of Web Development, to Mobile App & around the
 corner to Robotics and Desktop Applications.</p>
 
-<img src="./assets/WebsiteCreator-amico.svg" alt="Cool Photo" />
+<img style="width: 300px; height: 300px;" src="./assets/WebsiteCreator-amico.svg" alt="Cool Photo" />
 
 ## What I am currently working on..
 
@@ -57,7 +57,7 @@ this calendar will be your number one pall</p>
 <p>View the code here!!</p>
 <img src="https://img.shields.io/badge/Code-Calendar Next Gen-blueviolet?style=for-the-badge&logo=appveyor" alt="Calendar Next Gen code link" />
 
-<img src="./assets/web.svg" alt="web" />
+<img style="width: 300px; height: 300px;" src="./assets/web.svg" alt="web" />
 
 ## What languages, frameworks & Libraries I spend the most time with...  
 
