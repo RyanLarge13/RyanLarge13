@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=50&duration=2500&pause=2000&color=00f0f0&width=1000&height=100&lines=Hi!+My+name+is+Ryan+Large+;Welcome+to+my+Github+profile!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=50&duration=2500&pause=2000&color=fff&width=1000&height=100&lines=Hi!+My+name+is+Ryan+Large+;Welcome+to+my+Github+profile!!" alt="Typing SVG" />
 
 # Top Projects
 ## [Dev Commerce](https://github.com/RyanLarge13/Dev-Commerce/)
