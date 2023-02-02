@@ -63,3 +63,7 @@ this calendar will be your number one pall</p>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />](https://www.linkedin.com/mwlite/in/ryan-large) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlarge13&show_icons=true&locale=en" alt="ryanlarge13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlarge13&" alt="ryanlarge13" /></p>
+
