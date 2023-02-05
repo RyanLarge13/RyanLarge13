@@ -64,7 +64,9 @@ this calendar will be your number one pall</p>
 
 ## Stats 🤓
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryanlarge13&theme=github-compact)](https://github.com/ryanlarge13/github-readme-activity-graph)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlarge13&show_icons=true&locale=en" alt="ryanlarge13" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlarge13&" alt="ryanlarge13" /></p>
 
