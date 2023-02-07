@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=100&duration=2500&pause=1500&color=90f&width=1000&height=200&lines=You+Have+Entered+;My+profile..+;Welcome" alt="Typing SVG" />
 
+<a href="https://app.daily.dev/RyanLarge"><img align="right" src="https://api.daily.dev/devcards/fafe3bfaf6814e9bb019dcbf697dfbf6.png?r=8vl" width="400" alt="Ryan's Card"/></a>
+
 # Top Projects
 ## [Dev Commerce](https://github.com/RyanLarge13/Dev-Commerce/)
 
@@ -41,22 +43,50 @@ this calendar will be your number one pall</p>
 
 <div align="center">
 
+<kbd>
+
 ## Languages 
 <img style="width: 25px; height: 25px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C plus plus" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="json" /> 
+
+</kbd>
+
+<kbd>
 
 ## Frameworks
 <img style="width: 25px; height: 25px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node" /><img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next js" />
 
+</kbd>
+
+<kbd>
+
 ## Libraries
-<img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="jwt" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport js" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="auth0" />
+<img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="jwt" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="passport js" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/auth0.svg" alt="auth0" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+</kbd>
+
+<kbd>
 
 ## Styling
 <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind css" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" />
+
+</kbd>
+
+<kbd>
 
 ## Operating Systems 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+</kbd>
+
+<kbd>
+ 
+## IDE's
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
+    
+</kbd>
 
 ## How to Reach Me!
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](ryanhudsonlarge13@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />](https://m.facebook.com/ryan.large.984?eav=Afb_ca1RYYviDYqYwVxrRIOnQzPU6Yh3GXFxHf8-l9kJ73sjTQDektoGhVDKNJ8mZdY&paipv=0)
@@ -71,3 +101,5 @@ this calendar will be your number one pall</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlarge13&show_icons=true&locale=en" alt="ryanlarge13" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlarge13&" alt="ryanlarge13" /></p>
+
+
