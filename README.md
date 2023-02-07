@@ -38,12 +38,13 @@ this calendar will be your number one pall</p>
 <hr/>
 
 # What I know
-## Languages 
 
+<div align="center">
+
+## Languages 
 <img style="width: 25px; height: 25px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C plus plus" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="json" /> 
 
 ## Frameworks
-
 <img style="width: 25px; height: 25px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" alt="node" /><img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" /> <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next js" />
 
 ## Libraries
@@ -61,12 +62,12 @@ this calendar will be your number one pall</p>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](ryanhudsonlarge13@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />](https://m.facebook.com/ryan.large.984?eav=Afb_ca1RYYviDYqYwVxrRIOnQzPU6Yh3GXFxHf8-l9kJ73sjTQDektoGhVDKNJ8mZdY&paipv=0)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />]() [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://mobile.twitter.com/ryan_large13)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />](https://www.linkedin.com/mwlite/in/ryan-large) 
+</div>
 
-## Stats 🤓
+# Stats
 
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryanlarge13&theme=github-compact)](https://github.com/ryanlarge13/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlarge13&show_icons=true&locale=en" alt="ryanlarge13" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlarge13&" alt="ryanlarge13" /></p>
-
