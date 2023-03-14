@@ -25,7 +25,7 @@ is in the making and nearly fully functional.</p>
 <img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=appveyor" alt="framework" />
 <hr/>
 
-## Calendar Next Gen
+## [Calendar Next Gen](https://github.com/RyanLarge13/Calendar-Next-Gen/) 
 
 <p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
 It will feature an entirely new interface build with much cleaner and simple UI/UX yet still
