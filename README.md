@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=SansSarif&size=100&duration=2500&pause=1500&color=90f&width=1000&height=200&lines=You+Have+Entered+;My+profile..+;Welcome" alt="Typing SVG" />
-
 # Top Projects
 ## [Dev Commerce](https://github.com/RyanLarge13/Dev-Commerce/)
 
