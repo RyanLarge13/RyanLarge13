@@ -47,6 +47,7 @@ an account, view people's posts, follow your favorite writers
  in viewing the code for this website, please send me an email <a href="mailto:ryanlarge@ryanlarge.dev">Ryan's Email</a></p>
 
 <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" />
+<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" />
 <hr />
 
 # What I know
