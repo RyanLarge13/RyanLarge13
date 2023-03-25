@@ -35,6 +35,20 @@ this calendar will be your number one pall</p>
 <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" />
 <hr/>
 
+## [Workout Blog](https://workout-blog-lac.vercel.app/)
+
+<p>What kind of developer would I be without an awesome blog?? Sign up for 
+an account, view people's posts, follow your favorite writers
+ & build your fully customizable blog post to share with the world!!</p>
+
+<p>
+ Sorry guys, the code for this blog is private, but I highly encourage you
+ all to visit this website and look around!! If you are interested
+ in viewing the code for this website, please send me an email <a href="mailto:ryanlarge@ryanlarge.dev">Ryan's Email</a></p>
+
+<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" />
+<hr />
+
 # What I know
 
 <div align="center">
