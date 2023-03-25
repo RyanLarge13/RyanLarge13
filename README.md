@@ -36,7 +36,7 @@ this calendar will be your number one pall</p>
 <a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /></a>
 <hr/>
 
-## [Workout Blog](https://workout-blog-lac.vercel.app/)
+## [Workout Blog](https://workout-blog.vercel.app/)
 
 <p>What kind of developer would I be without an awesome blog?? Sign up for 
 an account, view people's posts, follow your favorite writers
@@ -47,7 +47,7 @@ an account, view people's posts, follow your favorite writers
  all to visit this website and look around!! If you are interested
  in viewing the code for this website, please send me an email <a href="mailto:ryanlarge@ryanlarge.dev">Ryan's Email</a></p>
 
-<a href="https://workout-blog-lac.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
+<a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
 ## [Weather App React](https://github.com/RyanLarge13/Weather-App-React/)
