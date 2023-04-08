@@ -1,17 +1,4 @@
 # Top Projects
-## [Dev Commerce](https://github.com/RyanLarge13/Dev-Commerce/)
-
-<p>Dev Commerce is under construction
-on its way to becoming a full fledged Ecommerce Website with cross platform usability, both on mobile
-and on desktop</p>
-
-<p>There will be an administrative application seperate of the customer app
-that will track orders, keep inventory, track employee information regarding their professional contributions
-and much more.</p>
-
-<a href="https://github.com/RyanLarge13/Dev-Commerce/"><img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=appveyor" alt="framework" /></a>
-<hr/>
-
 ## [Soap Works](https://github.com/RyanLarge13/Soap-Works/)
 
 <p>Soap Works is another Ecommerce website built with EJS for a family owned all natural
@@ -47,6 +34,7 @@ an account, view people's posts, follow your favorite writers
  all to visit this website and look around!! If you are interested
  in viewing the code for this website, please send me an email <a href="mailto:ryanlarge@ryanlarge.dev">Ryan's Email</a></p>
 
+<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /><br />
 <a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
@@ -110,6 +98,15 @@ To spice things up a bit a few news articles are available as well to view and u
 <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
     
 </kbd>
+ 
+ <kbd>
+  
+  ## Design
+  <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/inkscape-logo-1.svg" alt="inkscape" />
+  <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="adobe" />
+  <img style="width: 25px; height: 25px" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" />
+  
+ </kbd>
 
 ## How to Reach Me!
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](ryanhudsonlarge13@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />](https://m.facebook.com/ryan.large.984?eav=Afb_ca1RYYviDYqYwVxrRIOnQzPU6Yh3GXFxHf8-l9kJ73sjTQDektoGhVDKNJ8mZdY&paipv=0)
