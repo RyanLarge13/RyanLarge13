@@ -20,7 +20,8 @@ packed with features beyond what people knew a calendar could do.</p>
 <p>Fully customizable, beautiful & key to an organized productive life
 this calendar will be your number one pall</p>
 
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /></a>
+<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /></a><br />
+<a href="https://calendar-next-gen.vercel.app/"><img src="https://img.shields.io/badge/Code-Calendar Next Gen-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr/>
 
 ## [Workout Blog](https://workout-blog.vercel.app/)
