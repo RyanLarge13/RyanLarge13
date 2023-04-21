@@ -30,12 +30,9 @@ this calendar will be your number one pall</p>
 an account, view people's posts, follow your favorite writers
  & build your fully customizable blog post to share with the world!!</p>
 
-<p>
- Sorry guys, the code for this blog is private, but I highly encourage you
- all to visit this website and look around!! If you are interested
- in viewing the code for this website, please send me an email <a href="mailto:ryanlarge@ryanlarge.dev">Ryan's Email</a></p>
+<p>A public code base seperate of the production code base was initialized for viewing the frontend logic put into this application</p>
 
-<img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /><br />
+<a href="https://github.com/RyanLarge13/Workout-Blog-Public/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /><br />
 <a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
