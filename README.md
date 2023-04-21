@@ -7,7 +7,7 @@ Hygenic products business.</p>
 <p>Featuring a clean user interface built around nature this website
 is in the making and nearly fully functional.</p>
 
-<a href="https://github.com/RyanLarge13/Soap-Works/"><img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=appveyor" alt="framework" /></a><br />
+<a href="https://github.com/RyanLarge13/Soap-Works/"><img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=nodedotjs" alt="framework" /></a><br />
 <a href="https://soap-works-production.up.railway.app/"><img src="https://img.shields.io/badge/Web-Soap Works-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr/>
 
@@ -20,8 +20,9 @@ packed with features beyond what people knew a calendar could do.</p>
 <p>Fully customizable, beautiful & key to an organized productive life
 this calendar will be your number one pall</p>
 
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /></a><br />
-<a href="https://calendar-next-gen.vercel.app/"><img src="https://img.shields.io/badge/Code-Calendar Next Gen-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
+<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
+<a href="https://github.com/RyanLarge13/Calendar-Next-Gen-Desktop/"><img src="https://img.shields.io/badge/Desktop-Vite + Electron-orange?style=for-the-badge&logo=vite" alt="framework" /></a><br />
+<a href="https://calendar-next-gen.vercel.app/"><img src="https://img.shields.io/badge/Web-Calendar Next Gen-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr/>
 
 ## [Workout Blog](https://workout-blog.vercel.app/)
@@ -32,7 +33,8 @@ an account, view people's posts, follow your favorite writers
 
 <p>A public code base seperate of the production code base was initialized for viewing the frontend logic put into this application</p>
 
-<a href="https://github.com/RyanLarge13/Workout-Blog-Public/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /><br />
+<a href="https://github.com/RyanLarge13/Workout-Blog-Public/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /><br />
+ <a href="https://github.com/RyanLarge13/Workout-Reads/"><img src="https://img.shields.io/badge/Android-React Native-green?style=for-the-badge&logo=android" alt="framework" /></a><br />
 <a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
@@ -44,7 +46,7 @@ there for completely free.</p>
 <p>Weather App React will provide you with todays forcast, 12 hour hourly forcast as well as daily forcast during a 7 week period. 
 To spice things up a bit a few news articles are available as well to view and update regularly.</p>
 
-<a href="https://github.com/RyanLarge13/Weather-App-React/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=appveyor" alt="framework" /></a><br />
+<a href="https://github.com/RyanLarge13/Weather-App-React/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
 <a href="https://weather-app-react-lac.vercel.app/"><img src="https://img.shields.io/badge/Web-Weather App React-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
