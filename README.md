@@ -20,7 +20,7 @@ packed with features beyond what people knew a calendar could do.</p>
 <p>Fully customizable, beautiful & key to an organized productive life
 this calendar will be your number one pall</p>
 
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
+<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-TypeScript-skyblue?style=for-the-badge&logo=typescript" alt="framework" /></a><br />
 <a href="https://github.com/RyanLarge13/Calendar-Next-Gen-Desktop/"><img src="https://img.shields.io/badge/Desktop-Vite + Electron-orange?style=for-the-badge&logo=vite" alt="framework" /></a><br />
 <a href="https://calendar-next-gen.vercel.app/"><img src="https://img.shields.io/badge/Web-Calendar Next Gen-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr/>
