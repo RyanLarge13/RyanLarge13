@@ -1,4 +1,29 @@
 # Top Projects
+## [Calendar Next Gen](https://github.com/RyanLarge13/Calendar-Next-Gen/) 
+
+<p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
+It will feature an entirely new interface build with much cleaner and simple UI/UX yet still
+packed with features beyond what people knew a calendar could do.</p>
+
+<p>Fully customizable, beautiful & key to an organized productive life
+this calendar will be your number one pall</p>
+
+<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
+<a href="https://calng.app/"><img src="https://img.shields.io/badge/PWA-Calendar Next Gen-violet?style=for-the-badge&logo=pwa" alt="website" /></a>
+<hr/>
+
+## [Dev Commerce](https://github.com/RyanLarge13/DC/)
+
+<p>DC is the e-commerce store created by me to offer clients a way to enjoy their experience building a new applicaiton
+in a clear, efficient & percise way</p>
+
+<p>Featuring Next13 app router and MongoDB this e-commerce site features an easy to use and appealing
+user interface for purchasing my services and products as a web developer</p>
+
+<a href="https://github.com/RyanLarge13/DC/"><img src="https://img.shields.io/badge/Code-NextJs-black?style=for-the-badge&logo=nextdotjs" alt="framework" /></a><br />
+<a href="https://devcommerce.app/"><img src="https://img.shields.io/badge/Web-DC-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
+<hr/>
+
 ## [Soap Works](https://github.com/RyanLarge13/Soap-Works/)
 
 <p>Soap Works is another Ecommerce website built with EJS for a family owned all natural
@@ -9,20 +34,6 @@ is in the making and nearly fully functional.</p>
 
 <a href="https://github.com/RyanLarge13/Soap-Works/"><img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=nodedotjs" alt="framework" /></a><br />
 <a href="https://soap-works-production.up.railway.app/"><img src="https://img.shields.io/badge/Web-Soap Works-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
-<hr/>
-
-## [Calendar Next Gen](https://github.com/RyanLarge13/Calendar-Next-Gen/) 
-
-<p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
-It will feature an entirely new interface build with much cleaner and simple UI/UX yet still
-packed with features beyond what people knew a calendar could do.</p>
-
-<p>Fully customizable, beautiful & key to an organized productive life
-this calendar will be your number one pall</p>
-
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-TypeScript-skyblue?style=for-the-badge&logo=typescript" alt="framework" /></a><br />
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen-Desktop/"><img src="https://img.shields.io/badge/Desktop-Vite + Electron-orange?style=for-the-badge&logo=vite" alt="framework" /></a><br />
-<a href="https://calendar-next-gen.vercel.app/"><img src="https://img.shields.io/badge/Web-Calendar Next Gen-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr/>
 
 ## [Workout Blog](https://workout-blog.vercel.app/)
