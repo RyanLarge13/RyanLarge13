@@ -49,16 +49,14 @@ an account, view people's posts, follow your favorite writers
 <a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
-## [Weather App React](https://github.com/RyanLarge13/Weather-App-React/)
+## [Electron Notes](https://github.com/RyanLarge13/Electron-Notes/)
 
-<p>Weather is part of our daily lives!! It is essential to have a handy dandy weather application floating around out 
-there for completely free.</p>
+<p>Bring on a professional notes taking application, organize and structure all of your notes and share with your friends</p>
 
-<p>Weather App React will provide you with todays forcast, 12 hour hourly forcast as well as daily forcast during a 7 week period. 
-To spice things up a bit a few news articles are available as well to view and update regularly.</p>
+<p>Electron Notes comes built with a full fledge folder/file management system, a rich text editing experience and customization. This application is web based so notes can be accessed and saved cross platform from any OS including Android's Native Notes mobile application</p>
 
-<a href="https://github.com/RyanLarge13/Weather-App-React/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
-<a href="https://weather-app-react-lac.vercel.app/"><img src="https://img.shields.io/badge/Web-Weather App React-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
+<a href="https://github.com/RyanLarge13/Electron-Notes/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
+<a href="https://snapcraft.io/web-notes/"><img src="https://img.shields.io/badge/Web-Weather App React-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
 <hr />
 
 # What I know
