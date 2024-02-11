@@ -1,4 +1,4 @@
-# Top Projects
+# Favorite Projects
 ## [Calendar Next Gen](https://github.com/RyanLarge13/Calendar-Next-Gen/) 
 
 <p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
