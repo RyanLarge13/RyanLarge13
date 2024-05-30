@@ -12,43 +12,6 @@ this calendar will be your number one pall</p>
 <a href="https://calng.app/"><img src="https://img.shields.io/badge/PWA-Calendar Next Gen-violet?style=for-the-badge&logo=pwa" alt="website" /></a>
 <hr/>
 
-## [Dev Commerce](https://github.com/RyanLarge13/DC/)
-
-<p>DC is the e-commerce store created by me to offer clients a way to enjoy their experience building a new applicaiton
-in a clear, efficient & percise way</p>
-
-<p>Featuring Next13 app router and MongoDB this e-commerce site features an easy to use and appealing
-user interface for purchasing my services and products as a web developer</p>
-
-<a href="https://github.com/RyanLarge13/DC/"><img src="https://img.shields.io/badge/Code-NextJs-black?style=for-the-badge&logo=nextdotjs" alt="framework" /></a><br />
-<a href="https://devcommerce.app/"><img src="https://img.shields.io/badge/Web-DC-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
-<hr/>
-
-## [Soap Works](https://github.com/RyanLarge13/Soap-Works/)
-
-<p>Soap Works is another Ecommerce website built with EJS for a family owned all natural
-Hygenic products business.</p>
-
-<p>Featuring a clean user interface built around nature this website
-is in the making and nearly fully functional.</p>
-
-<a href="https://github.com/RyanLarge13/Soap-Works/"><img src="https://img.shields.io/badge/Code-EJS-blueviolet?style=for-the-badge&logo=nodedotjs" alt="framework" /></a><br />
-<a href="https://soap-works-production.up.railway.app/"><img src="https://img.shields.io/badge/Web-Soap Works-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
-<hr/>
-
-## [Workout Blog](https://workout-blog.vercel.app/)
-
-<p>What kind of developer would I be without an awesome blog?? Sign up for 
-an account, view people's posts, follow your favorite writers
- & build your fully customizable blog post to share with the world!!</p>
-
-<p>A public code base seperate of the production code base was initialized for viewing the frontend logic put into this application</p>
-
-<a href="https://github.com/RyanLarge13/Workout-Blog-Public/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /><br />
- <a href="https://github.com/RyanLarge13/Workout-Reads/"><img src="https://img.shields.io/badge/Android-React Native-green?style=for-the-badge&logo=android" alt="framework" /></a><br />
-<a href="https://workout-blog.vercel.app/"><img src="https://img.shields.io/badge/Web-Workout Blog-violet?style=for-the-badge&logo=appveyor" alt="website" /></a>
-<hr />
-
 ## [Electron Notes](https://github.com/RyanLarge13/Electron-Notes/)
 
 <p>Bring on a professional notes taking application, organize and structure all of your notes and share with your friends</p>
