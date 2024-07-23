@@ -2,11 +2,10 @@
 
 Welcome to my github profile. If you are looking for a tech or software solution, please don't hesitate to check out my platform below where I will help you build your tech empire 
 
-<a href="https://devcommerce.app">
-<img src="./assets/logo.svg" alt="DC" width="50" height="50" />
-</a>
-<a href="https://devcommerce.app">
-Dev Commerce
+<img src="./assets/logo.svg" alt="DC" width="100%" />
+<a href="https://devcommerce.app" style="color: violet; font-weight: bold;
+text-decoration: none;">
+Build Your Solution
 </a>
 
 I am a software engineer that focuses on building maintainable, scalable, unique and performant applications that last covering a wide range of cross-platform software solutions anywhere from robotics software to desktop and mobile applications, server and database design maintenence and construction to the world wide web. Feel free to check out some of my public repositories and tech platform
