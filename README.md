@@ -2,7 +2,7 @@
 
 Welcome to my github profile. If you are looking for a tech or software solution, please don't hesitate to check out my platform below where I will help you build your tech empire 
 
-<img src="./assets/dc-logo.svg" alt="DC" width="100%" />
+<img src="./assets/dc-logo.png" alt="DC" width="100%" />
 <a href="https://devcommerce.app" style="color: violet; font-weight: bold;
 text-decoration: none;">
 Build Your Solution
