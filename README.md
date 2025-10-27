@@ -1,52 +1,66 @@
-# Welcome
+<!-- Modern & Technical GitHub Profile for Ryan Large -->
+<h1 align="center">👋 Hey, I'm Ryan Large</h1>
 
-Welcome to my github profile. If you are looking for a tech or software solution, please don't hesitate to check out my platform below where I will help you build your tech empire 
+<p align="center">
+  <strong>Full-Stack Developer</strong> • Building scalable web & mobile applications with clean architecture and modern technologies.
+</p>
 
-<img src="./assets/dc-logo.png" alt="DC" width="100%" />
-<a href="https://devcommerce.app" style="color: violet; font-weight: bold;
-text-decoration: none;">
-Build Your Solution
-</a>
+---
 
-I am a software engineer that focuses on building maintainable, scalable, unique and performant applications that last covering a wide range of cross-platform software solutions anywhere from robotics software to desktop and mobile applications, server and database design maintenence and construction to the world wide web. Feel free to check out some of my public repositories and tech platform
+### 🧠 About Me
+I'm a **software engineer** passionate about designing performant systems and seamless user experiences.  
+My work bridges **frontend creativity** and **backend precision**, leveraging TypeScript, Next.js, React Native, and C++ to build solutions that feel as good as they perform.
 
-# Favorite Projects
-## [Calendar Next Gen](https://github.com/RyanLarge13/Calendar-Next-Gen/) 
+---
 
-<p>Sure, there are so many calendar apps out there... But this one is the next big deal. 
-It will feature an entirely new interface built with much cleaner and simple UI/UX yet still
-packed with features beyond what people knew a calendar could do.</p>
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,prisma,nodejs,cpp,html,css,tailwind,gcp,vercel,git,linux,docker,vscode" />
+</p>
 
-<p>Fully customizable, beautiful & key to an organized productive life
-this calendar will be your number one pall</p>
+---
 
-<a href="https://github.com/RyanLarge13/Calendar-Next-Gen/"><img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" alt="framework" /></a><br />
-<a href="https://calng.app/"><img src="https://img.shields.io/badge/PWA-Calendar Next Gen-violet?style=for-the-badge&logo=pwa" alt="website" /></a>
-<hr/>
+### 🚀 Featured Projects
 
-## [Electron Notes](https://github.com/RyanLarge13/Electron-Notes/)
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🧠 [**Memories**](https://github.com/RyanLarge13/Memories) | A social media web app for sharing life moments — built with modern full-stack tools | Next.js, Prisma, Google Cloud |
+| ✍️ [**Text-Editor-JS**](https://github.com/RyanLarge13/Text-Editor-JS) | Minimalist web-based text editor made completely from scratch | JavaScript, CSS |
+| 🪶 [**Sketch-It**](https://github.com/RyanLarge13/Sketch-It) | Creative drawing and note-taking app focused on fluid user interaction | React, Canvas |
+| 🧾 [**Electron Notes**](https://github.com/RyanLarge13/Electron-Notes) | Cross-platform note app — deployed as a Linux Snap package | Electron, React |
 
-<p>Bring on a professional notes taking application, organize and structure all of your notes and share with your friends</p>
+---
 
-<p>Electron Notes comes built with a full fledge folder/file management like system, a rich text editing experience and customization. This application is web based so notes can be accessed and saved cross platform from any OS including Android's <a href="https://github.com/RyanLarge13/Native-Notes">Native Notes</a> mobile application</p>
+### 🎯 Goals & Achievements
+*(Fill these in as you hit milestones)*
 
-<a href="https://github.com/RyanLarge13/Electron-Notes/"><img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" alt="framework" /></a><br />
-<a href="https://snapcraft.io/web-notes/"><img src="https://img.shields.io/badge/Linux-SnapCraft-violet?style=for-the-badge&logo=linux" alt="app" /></a>
-<hr />
+- ✅ **Recent Achievement:** _e.g. Published “Memories” full-stack app using Prisma + Google Cloud_  
+- 🧩 **Current Goal:** _e.g. Contribute to open-source Next.js tooling_  
+- 🚀 **Upcoming Project:** _e.g. Launching a new React Native productivity app_
 
-# How to Reach Me!
-<a href="mailto:ryanlarge@ryanlarge.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />](https://m.facebook.com/ryan.large.984?eav=Afb_ca1RYYviDYqYwVxrRIOnQzPU6Yh3GXFxHf8-l9kJ73sjTQDektoGhVDKNJ8mZdY&paipv=0)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />]() [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://mobile.twitter.com/ryan_large13)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linekedIn" />](https://www.linkedin.com/mwlite/in/ryan-large) 
-</div>
+---
 
-# Stats
+### 📊 GitHub Stats
 
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryanlarge13&theme=github-compact)](https://github.com/ryanlarge13/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanLarge13&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLarge13&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanlarge13&show_icons=true&locale=en&layout=compact" alt="ryanlarge" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanlarge13&show_icons=true&locale=en" alt="ryanlarge13" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanlarge13&" alt="ryanlarge13" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RyanLarge13&theme=react&hide_border=true" height="165" />
+</p>
 
+---
+
+### 🌐 Connect
+📄 [Portfolio Website](https://ryanlarge.com)  
+💼 [Resume](https://www.ryanlarge.com/ryanLargeResume.pdf)  
+📫 **Email:** ryanlarge.dev@gmail.com  
+
+---
+
+<p align="center">
+  <em>"Code is the brush. Imagination is the canvas."</em> 🎨
+</p>
 
