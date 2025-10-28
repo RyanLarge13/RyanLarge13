@@ -36,7 +36,7 @@ My work bridges **frontend creativity** and **backend precision**, leveraging Ty
 
 - ✅ **Recent Achievement:** _e.g. Published “Memories” full-stack app using Prisma + Google Cloud_  
 - 🧩 **Current Goal:** _e.g. Contribute to open-source Next.js tooling_  
-- 🚀 **Upcoming Project:** _e.g. Launching a new React Native productivity app_
+- 🚀 **Upcoming Project:** _e.g. Launching a new React Native weather app_
 
 ---
 
