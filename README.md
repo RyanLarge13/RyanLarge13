@@ -54,7 +54,7 @@ My work bridges **frontend creativity** and **backend precision**, leveraging Ty
 ---
 
 ### 🌐 Connect
-📄 [Portfolio Website](https://ryanlarge.com)  
+📄 [Portfolio Website](https://ryanlarge13.github.io/Projects)  
 💼 [Resume](https://www.ryanlarge.com/ryanLargeResume.pdf)  
 📫 **Email:** ryanlarge.dev@gmail.com  
 
