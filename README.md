@@ -1,66 +1,165 @@
-<!-- Modern & Technical GitHub Profile for Ryan Large -->
-<h1 align="center">👋 Hey, I'm Ryan Large</h1>
+# Hey, I'm Ryan Large 👋
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> • Building scalable web & mobile applications with clean architecture and modern technologies.
-</p>
+### Software Engineer · Full-Stack Developer
 
----
+I build software across the stack — from full-stack web applications and mobile
+apps to C++ terminal software, APIs, automation, and developer tools.
 
-### 🧠 About Me
-I'm a **software engineer** passionate about designing performant systems and seamless user experiences.  
-My work bridges **frontend creativity** and **backend precision**, leveraging TypeScript, Next.js, React Native, and C++ to build solutions that feel as good as they perform.
+My background is a little unconventional. Alongside several years of independent
+software development, I work in CNC programming and manufacturing, where I use
+software, scripting, automation, and systems-level troubleshooting to solve
+real production problems.
 
----
-
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,prisma,nodejs,cpp,html,css,tailwind,gcp,vercel,git,linux,docker,vscode" />
-</p>
+I enjoy understanding how things work beneath the surface, building systems from
+the ground up, and taking projects well beyond the prototype stage.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 What I'm Building
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🧠 [**Memories**](https://github.com/RyanLarge13/Memories) | A social media web app for sharing life moments — built with modern full-stack tools | Next.js, Prisma, Google Cloud |
-| ✍️ [**Text-Editor-JS**](https://github.com/RyanLarge13/Text-Editor-JS) | Minimalist web-based text editor made completely from scratch | JavaScript, CSS |
-| 🪶 [**Sketch-It**](https://github.com/RyanLarge13/Sketch-It) | Creative drawing and note-taking app focused on fluid user interaction | React, Canvas |
-| 🧾 [**Electron Notes**](https://github.com/RyanLarge13/Electron-Notes) | Cross-platform note app — deployed as a Linux Snap package | Electron, React |
+### 📅 Calendar Next Gen
 
----
+A full-stack productivity platform combining calendars, reminders, tasks, lists,
+Kanban boards, sticky notes, notifications, and social features into an
+installable Progressive Web App.
 
-### 🎯 Goals & Achievements
-*(Fill these in as you hit milestones)*
+**Engineering highlights**
+- React + Vite frontend
+- Node.js + Express backend
+- Prisma database layer
+- Redis
+- REST APIs
+- Google OAuth and Calendar integration
+- Web Push notifications
+- Background processing with cron
+- PWA / service worker architecture
 
-- ✅ **Recent Achievement:** _e.g. Published “Memories” full-stack app using Prisma + Google Cloud_  
-- 🧩 **Current Goal:** _e.g. Contribute to open-source Next.js tooling_  
-- 🚀 **Upcoming Project:** _e.g. Launching a new React Native weather app_
+**Stack:** React · JavaScript · Node.js · Express · Prisma · Redis · Tailwind CSS
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanLarge13&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLarge13&layout=compact&theme=react&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RyanLarge13&theme=react&hide_border=true" height="165" />
-</p>
+[View Calendar Next Gen →](https://github.com/RyanLarge13/Calendar-Next-Gen)
 
 ---
 
-### 🌐 Connect
-📄 [Portfolio Website](https://ryanlarge13.github.io/Projects)  
-💼 [Resume](https://www.ryanlarge.com/ryanLargeResume.pdf)  
-📫 **Email:** ryanlarge.dev@gmail.com  
+### 📱 Native Notes
+
+An Android-focused notes application built with React Native and Expo, featuring
+a hierarchical file/folder organization model rather than a traditional flat
+notes list.
+
+The project includes a custom rich-text editing system that bridges React Native
+with an HTML/JavaScript editor running inside a WebView.
+
+**Engineering highlights**
+- React Native / Expo application
+- Custom WebView rich-text editor
+- SQLite local persistence
+- Nested folder architecture
+- Local authentication
+- Local and remote data architecture
+- Configurable themes, sorting, and application state
+
+**Stack:** React Native · Expo · JavaScript · SQLite · HTML/CSS · WebView
+
+[View Native Notes →](https://github.com/RyanLarge13/Native-Notes)
 
 ---
 
-<p align="center">
-  <em>"Code is the brush. Imagination is the canvas."</em> 🎨
-</p>
+### 🖥️ CPP Notes
+
+A terminal-based note-taking application written in C++.
+
+CPP Notes is both a usable application and an ongoing exploration of lower-level
+software development. It includes filesystem navigation, file I/O, terminal UI,
+configuration management, networking, and the foundations for remote
+synchronization.
+
+**Engineering highlights**
+- Interactive terminal interface with ncurses
+- Filesystem-based note management
+- HTTP/network communication with libcurl
+- Local configuration and authentication
+- Custom terminal text editor
+- Remote synchronization architecture
+
+**Stack:** C++ · ncurses · libcurl · Bash · Linux · Clang
+
+[View CPP Notes →](https://github.com/RyanLarge13/CPP-Notes)
+
+---
+
+## 🧰 Technologies
+
+**Languages**
+
+`JavaScript` · `TypeScript` · `C++` · `Python` · `C#` · `SQL` · `HTML` · `CSS`
+
+**Frontend & Mobile**
+
+`React` · `React Native` · `Next.js` · `Expo` · `Tailwind CSS`
+
+**Backend & Data**
+
+`Node.js` · `Express` · `PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` ·
+`Prisma` · `Redis`
+
+**Tools & Platforms**
+
+`Git` · `Linux` · `Bash` · `REST APIs` · `WebSockets` · `Docker`
+
+---
+
+## ⚙️ Software + Engineering
+
+Software isn't limited to my personal projects.
+
+In manufacturing, I program and troubleshoot 5-axis CNC systems and work with
+CAD/CAM software including Rhino and Mastercam. I've also used Python, C#/.NET,
+C++, scripting, and application APIs to automate workflows and reduce repetitive
+work.
+
+That experience has given me a perspective I value as a developer: software
+ultimately has to interact with real systems, real constraints, and real users.
+
+---
+
+## 🧠 What Interests Me
+
+I'm especially interested in:
+
+- Full-stack application architecture
+- Backend systems and APIs
+- C++ and systems programming
+- Offline-first and local-first software
+- Mobile and cross-platform development
+- Databases and data modeling
+- Developer tooling and automation
+- Building software that solves real-world problems
+
+I'm continually expanding beyond the frameworks I already know and strengthening
+my understanding of the fundamentals underneath them.
+
+---
+
+## 📌 More Projects
+
+This GitHub contains projects from different stages of my development journey —
+from early experiments and learning projects to larger applications that have
+evolved over years.
+
+A few other areas I've explored include:
+
+**Desktop applications · Graphics/Canvas · Games · Networking · Authentication ·
+Algorithms · CLI tools · E-commerce · Real-time communication · Automation**
+
+→ [Browse my repositories](https://github.com/RyanLarge13?tab=repositories)
+
+---
+
+## 🤝 Connect
+
+🌐 **Portfolio:** [ryanlarge.com](http://www.ryanlarge.com)
+
+💼 **LinkedIn:** [Ryan Large](https://www.linkedin.com/in/ryan-large)
+
+📫 **Email:** ryanlarge.dev@gmail.com
 
