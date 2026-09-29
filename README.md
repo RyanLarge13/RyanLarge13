@@ -193,8 +193,8 @@ systems underneath it and become a stronger engineer with every project I build.
 
 # 🤝 Connect
 
-🌐 **Portfolio:** [ryanlarge.com](http://www.ryanlarge.com)
+🌐 **Portfolio:** [Project Portfolio](http://www.ryanlarge.com)
 
 💼 **LinkedIn:** [Ryan Large](https://www.linkedin.com/in/ryan-large)
 
-📫 **Email:** ryanlarge.dev@gmail.com
+📫 **Email:** ryanlarge@ryanlarge.dev
